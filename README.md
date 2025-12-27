@@ -47,6 +47,7 @@
 
 <h2 align="center">Things I use:</h2>
 <br/>
+<br/>
 <h3 align="center">Code</h3>
 
 <div align="center">
