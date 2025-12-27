@@ -1,13 +1,145 @@
-# 💫 About Me:
-Developer from Germany.<br>I work on Roblox games, web stuff, Discord mods, and LCU mods.<br>I’m not into repeating the same ideas,<br>I’m always experimenting and building new systems that don’t really exist yet.<br><br>NetCorp Studios is my studio and the place where all my projects are credited.
+<div align="center">
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Welcome to my Profile;My name is zafazu;Have a nice day!" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zafazu1) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/zafazu_) 
+  <br/>
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+  <p>
+    <a href="https://instagram.com/zafazu1">
+      <img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>&nbsp;
+    <a href="https://twitch.tv/zafazu_">
+      <img src="https://img.shields.io/badge/twitch-%23000000.svg?style=for-the-badge&logo=twitch&logoColor=white" />
+    </a>&nbsp;
+    <a href="https://netcorpstudios.com/">
+      <img src="https://img.shields.io/badge/NetCorp Studios-%23000000.svg?style=for-the-badge&logo=roblox&logoColor=white" />
+    </a>
+  </p>
 
+</div>
 
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <br/>
+  <samp>/* ---------------------------------------------------------------------- */</samp>
+  <br/>
+</div>
+
+<br/>
+
+<div align="center">
+  <samp>
+    &gt; German Developer<br>
+    &gt; <b>zafazu</b><br>
+    &gt; Founder of <b>NetCorp Studios</b><br>
+    &gt; MIAU</b>
+  </samp>
+</div>
+
+<br/>
+
+<div align="center">
+  <br/>
+  <samp>/* ---------------------------------------------------------------------- */</samp>
+  <br/>
+</div>
+
+<h2 align="center">Things I use:</h2>
+<br/>
+<h3 align="center">Code</h3>
+
+<div align="center">
+  <a href="#" title="JavaScript: The language of the web. Used for dynamic interactivity.">
+    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" />
+  </a>
+  <a href="#" title="TypeScript: JavaScript with syntax for types. Adds safety and scalability.">
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Lua: Lightweight, high-level, multi-paradigm scripting. Essential for Roblox/NetCorp.">
+    <img src="https://skillicons.dev/icons?i=lua&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Python: Powerful high-level programming. Used for Data Science and Automation.">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="50" />
+  </a>
+  <a href="#" title="NodeJS: JavaScript runtime built on Chrome's V8 engine. Server-side execution.">
+    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS.">
+    <img src="https://skillicons.dev/icons?i=electron&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Vue.js: The Progressive JavaScript Framework for building user interfaces.">
+    <img src="https://skillicons.dev/icons?i=vue&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Next.js: The React Framework for the Web. Hybrid static & server rendering.">
+    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Webpack: Static module bundler for modern JavaScript applications.">
+    <img src="https://skillicons.dev/icons?i=webpack&theme=dark" width="50" />
+  </a>
+  
+  <h3 align="center">Design</h3>
+
+  <a href="#" title="Figma: The collaborative interface design tool.">
+    <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Photoshop: Raster graphics editor for digital art and photography.">
+    <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Adobe Illustrator: Vector graphics editor for logos and illustrations.">
+    <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Blender: Open source 3D creation suite. Modeling, rigging, animation.">
+    <img src="https://skillicons.dev/icons?i=blender&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Unreal Engine: The world's most open and advanced real-time 3D creation tool.">
+    <img src="https://skillicons.dev/icons?i=unreal&theme=dark" width="50" />
+  </a>
+  <a href="#" title="After Effects: Digital visual effects, motion graphics, and compositing.">
+    <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Premiere Pro: Timeline-based video editing software application.">
+    <img src="https://skillicons.dev/icons?i=pr&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Inkscape: Professional vector graphics editor for Linux/Windows/macOS.">
+    <img src="https://skillicons.dev/icons?i=inkscape&theme=dark" width="50" />
+  </a>
+
+  <h3 align="center">Server</h3>
+
+  <a href="#" title="Docker: OS-level virtualization to deliver software in packages called containers.">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Nginx: Web server that can also be used as a reverse proxy, load balancer, and mail proxy.">
+    <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Git: Distributed version control system for tracking changes in source code.">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" />
+  </a>
+  <a href="#" title="GitHub: Hosting for software development and version control using Git.">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Flask: Micro web framework written in Python.">
+    <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="50" />
+  </a>
+  <a href="#" title="Linux: Open-source Unix-like operating system kernel.">
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" />
+  </a>
+</div>
+
+<br/>
+
+<h3 align="center">Stats</h3>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zafazu&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+  
+  <br/><br/>
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=zafazu&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=999999&currStreakLabel=999999&sideLabels=999999&dates=999999&hide_border=true" height="150" />
+
+</div>
+<br/>
