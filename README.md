@@ -54,9 +54,6 @@
   <a href="#" title="JavaScript: The language of the web. Used for dynamic interactivity.">
     <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50" />
   </a>
-  <a href="#" title="TypeScript: JavaScript with syntax for types. Adds safety and scalability.">
-    <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" />
-  </a>
   <a href="#" title="Lua: Lightweight, high-level, multi-paradigm scripting. Essential for Roblox/NetCorp.">
     <img src="https://skillicons.dev/icons?i=lua&theme=dark" width="50" />
   </a>
