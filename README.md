@@ -11,8 +11,6 @@
     <a href="https://twitch.tv/zafazu_">
       <img src="https://img.shields.io/badge/twitch-%23000000.svg?style=for-the-badge&logo=twitch&logoColor=white" />
     </a>&nbsp;
-    <a href="https://netcorpstudios.com/">
-      <img src="https://img.shields.io/badge/NetCorp Studios-%23000000.svg?" />
     </a>
   </p>
 
