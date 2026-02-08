@@ -28,7 +28,7 @@
 
 <div align="center">
   <samp>
-    &gt; German Developer<br>
+    &gt; Wannabe German Developer<br>
     &gt; <b>zafazu</b><br>
     &gt; Founder of <b>NetCorp Studios</b><br>
     &gt; MIAU</b>
