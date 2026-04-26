@@ -133,7 +133,5 @@
   
   <br/><br/>
 
-  <img src="https://nirzak-streak-stats.vercel.app/?user=zafazu&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=999999&currStreakLabel=999999&sideLabels=999999&dates=999999&hide_border=true" height="150" />
-
 </div>
 <br/>
