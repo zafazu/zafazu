@@ -101,7 +101,7 @@
     <img src="https://skillicons.dev/icons?i=inkscape&theme=dark" width="50" />
   </a>
 
-  <h3 align="center">Server</h3>
+  <h3 align="center">Other</h3>
 
   <a href="#" title="Docker: OS-level virtualization to deliver software in packages called containers.">
     <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="50" />
