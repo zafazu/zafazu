@@ -37,6 +37,25 @@
 
 <br/>
 
+<h2 align="center">Pinned Repos</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/zafazu/DarkVisionOA">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=zafazu&repo=DarkVisionOA&icon_color=9198a1&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+        </a>
+        <a href="https://github.com/zafazu/DarkVision">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=zafazu&repo=DarkVision&icon_color=9198a1&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
 <div align="center">
   <br/>
   <samp>/* ---------------------------------------------------------------------- */</samp>
@@ -135,3 +154,7 @@
 
 </div>
 <br/>
+
+
+
+
