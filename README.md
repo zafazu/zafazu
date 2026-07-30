@@ -52,6 +52,9 @@
         <a href="https://github.com/zafazu/Slash">
           <img src="https://github-stats-extended.vercel.app/api/pin/?username=zafazu&repo=Slash&icon_color=9198a1&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
         </a>
+        <a href="https://github.com/zafazu/DarkVisionOA_Installer">
+          <img src="https://github-stats-extended.vercel.app/api/pin/?username=zafazu&repo=DarkVisionOA_Installer&icon_color=9198a1&title_color=58a6ff&text_color=8b949e&bg_color=00000000" />
+        </a>
       </td>
     </tr>
   </table>
