@@ -62,6 +62,16 @@
 
 <br/>
 
+<h2 align="center">What i want to achieve:</h2>
+
+<div align="center">
+  <samp>
+    &gt; A program that can detect installed Wallpaper engine and can render any wallpaper on any surface<br>
+    &gt; Wobbly Windows but for Windows ( only Linux version exists )<br>
+    &gt; Window rotate, a Discord Plugin that lets u rotate ur whole window however u like</b><br>
+  </samp>
+</div>
+
 <div align="center">
   <br/>
   <samp>/* ---------------------------------------------------------------------- */</samp>
