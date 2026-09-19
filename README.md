@@ -66,9 +66,9 @@
 
 <div align="center">
   <samp>
-    &gt; A program that can detect installed Wallpaper engine and can render any wallpaper on any surface<br>
+    &gt; A program that can detect installed Wallpaper engine and can render any wallpaper on any surface [DONE]<br>
     &gt; Wobbly Windows but for Windows ( only Linux version exists )<br>
-    &gt; Window rotate, a Discord Plugin that lets u rotate ur whole window however u like</b><br>
+    &gt; Window rotate, a Discord Plugin that lets u rotate ur whole window however u like [DONE]</b><br>
   </samp>
 </div>
 
